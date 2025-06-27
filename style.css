@@ -56,3 +56,8 @@ footer {
   color: #666;
   font-size: 0.9rem;
 }
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+
